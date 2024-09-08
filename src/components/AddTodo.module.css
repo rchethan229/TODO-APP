@@ -1,0 +1,25 @@
+.hero {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    
+}
+
+.todo {
+    width: 40vw;
+    height: 20px;
+    padding: 10px;
+}
+
+.date {
+    width: 150px;
+    height: 20px;
+    padding: 10px;
+}
+.add{
+    background-color: rgb(23, 207, 23);
+    color: azure;
+    padding: 12px;
+    width: 100px;
+    border-radius: 4px;
+}

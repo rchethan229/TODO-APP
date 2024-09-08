@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    padding: 10px;
+}
+.todo{
+    width: 40vw;
+    height: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    font-size: larger;
+    overflow:auto
+}
+.date {
+    width: 150px;
+    height: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    font-size: larger;
+}
+
+.delete{
+    background-color: red;
+    color: azure;
+    padding: 12px;
+    width: 100px;
+    border-radius: 4px;
+}
